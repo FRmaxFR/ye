@@ -13,3 +13,5 @@
   <url>https://raw.githubusercontent.com/Akarin-project/akarin-repo/master/repository</url>
 </repository>
 ```
+
+![Akarin project](https://i.imgur.com/vy4YA2J.png)
