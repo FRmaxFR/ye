@@ -3,7 +3,7 @@
 
 > Akarin-repo is a github-intergrated maven repository
 
-* Execute `delopy-akarin-repo.sh` at your maven project root to deploy
+* Execute `deploy-akarin-repo.sh` at your maven project root to deploy
 
 ### Usage
 ***
