@@ -29,6 +29,12 @@
       <version>15.0</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>org.spongepowered</groupId>
+      <artifactId>mixin</artifactId>
+      <version>0.7.8-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
   <name>LegacyLauncher</name>
   <description>Minecraft LegacyLauncher - Akarin project</description>
