@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.akarin</groupId>
+  <artifactId>legacylauncher</artifactId>
+  <version>1.23</version>
+  <dependencies>
+    <dependency>
+      <groupId>net.sf.jopt-simple</groupId>
+      <artifactId>jopt-simple</artifactId>
+      <version>5.0.4</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.ow2.asm</groupId>
+      <artifactId>asm-all</artifactId>
+      <version>5.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-core</artifactId>
+      <version>2.8.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jetbrains</groupId>
+      <artifactId>annotations</artifactId>
+      <version>15.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.spongepowered</groupId>
+      <artifactId>mixin</artifactId>
+      <version>0.7.8-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.destroystokyo.paper</groupId>
+      <artifactId>paper-api</artifactId>
+      <version>1.12.2-R0.1-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+  <name>LegacyLauncher</name>
+  <description>Minecraft LegacyLauncher - Akarin project</description>
+  <url>https://github.com/Akarin-project/LegacyLauncher</url>
+  <issueManagement>
+    <system>GitHub Issues</system>
+    <url>https://github.com/Akarin-project/LegacyLauncher/issues</url>
+  </issueManagement>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/licenses/MIT</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>mikroskeem</id>
+      <name>Mark Vainomaa</name>
+      <email>mikroskeem@mikroskeem.eu</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:Akarin-project/LegacyLauncher.git</connection>
+    <developerConnection>scm:git@github.com:Akarin-project/LegacyLauncher.git</developerConnection>
+    <url>https://github.com/Akarin-project/LegacyLauncher</url>
+  </scm>
+</project>
