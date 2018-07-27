@@ -3,7 +3,7 @@
   <groupId>io.akarin</groupId>
   <artifactId>legacylauncher</artifactId>
   <versioning>
-    <release>1.24</release>
+    <release>1.25</release>
     <versions>
       <version>1.19</version>
       <version>1.20</version>
@@ -11,7 +11,8 @@
       <version>1.22</version>
       <version>1.23</version>
       <version>1.24</version>
+      <version>1.25</version>
     </versions>
-    <lastUpdated>20180707181651</lastUpdated>
+    <lastUpdated>20180727004832</lastUpdated>
   </versioning>
 </metadata>
